@@ -5,7 +5,7 @@ import Box from './components/Box';
 function App() {
   // Data to be passed down
   const userSurname = "John Adrielle Mandap";
-  const courseCode = "CPEITEL";
+  const courseCode = "CPEITEL3";
 
   return (
     <div className="App">
